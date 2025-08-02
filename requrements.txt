@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+sqlite3
+apscheduler
+requests
+yoomoney==0.2.0
+telebot
